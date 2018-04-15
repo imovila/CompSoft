@@ -1,0 +1,2 @@
+1|JOJD091260F|DOJO|JOJO|1960/12/9|2000/10/19|222222222|fulltime|Analyst|75000.0|#7-100, ave. Terra, Belle, Utopia, 11111|+1 (222) 5533337|dojo@dom.com|1500.25
+2|KITM091260P|MIMI|KITY|1960/12/9|2015/12/11|111111111|parttime|Consultant|12.25|35.5|number=ADRF14455, datein=2017/10/1, dateout=2017/12/1|#999-5000, blvd. Moon, Sun, CountrySun, 222|+1 (333) 7775555|mimi@yahoo.fr|500.18
